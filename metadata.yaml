@@ -1,0 +1,46 @@
+_repo: George-Eliot-s-Life-Vol.-III--of-3-as-related-in-her-Letters-and-Journals_43045
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Eliot, George
+    aliases:
+    - Evans, Marian
+    - Cross, Marian Evans
+    - Lewes, Marian Evans
+    - Lewes, M. E. (Marian Evans)
+    - Cross, Mary Ann
+    - Evans, Mary Anne
+    birthdate: 1819
+    deathdate: 1880
+    gutenberg_agent_id: '90'
+    url: http://www.gutenberg.org/2009/agents/90
+    wikipedia: http://en.wikipedia.org/wiki/George_Eliot
+  editor:
+    agent_name: Cross, J. W. (John Walter)
+    aliases:
+    - Cross, John Walter
+    - Cross, Johnnie
+    birthdate: 1840
+    deathdate: 1924
+    gutenberg_agent_id: '42003'
+    url: http://www.gutenberg.org/2009/agents/42003
+description: ''
+gutenberg_issued: '2013-06-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43045'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Novelists, English -- 19th century -- Correspondence'
+- !lcsh 'Eliot, George, 1819-1880 -- Correspondence'
+- !lcsh 'Eliot, George, 1819-1880 -- Diaries'
+- !lcc 'PR'
+- !lcsh 'Novelists, English -- 19th century -- Diaries'
+title: George Eliot's Life, as Related in Her Letters and Journals. Vol. 3 (of 3)
+url: http://www.gutenberg.org/ebooks/43045
