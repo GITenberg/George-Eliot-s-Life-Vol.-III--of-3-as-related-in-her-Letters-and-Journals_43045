@@ -28,6 +28,8 @@ creator:
     gutenberg_agent_id: '42003'
     url: http://www.gutenberg.org/2009/agents/42003
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43045#George-Eliot-s-Life-Vol.-III--of-3-as-related-in-her-Letters-and-Journals
 gutenberg_issued: '2013-06-29'
 gutenberg_type: Text
 identifiers:
